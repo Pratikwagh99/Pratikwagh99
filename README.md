@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F46800&height=220&section=header&text=Pratik%20Wagh&fontSize=60&animation=twinkling&fontColor=ffffff&desc=Grafana%20Consultant%20%26%20Observability%20Engineer&descAlignY=58&descSize=20" />
 
 <a href="https://github.com/Pratikwagh99">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F46800&center=true&vCenter=true&width=650&lines=Grafana+Consultant+%26+Observability+Engineer;OpenTelemetry+%7C+Prometheus+%7C+Loki+%7C+Tempo;Building+Real-Time+Observability+Pipelines;Reducing+MTTR+%2C+One+Dashboard+at+a+Time;Kubernetes+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F46800&center=true&vCenter=true&width=650&lines=Grafana+Consultant+%26+Observability+Engineer;OpenTelemetry+%7C+Prometheus+%7C+Loki+%7C+Tempo;Building+Real-Time+Observability+Pipelines;Reducing+MTTR%2C+One+Dashboard+at+a+Time;Kubernetes+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 </a>
 
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-F46800?style=for-the-badge&logo=github&logoColor=white)
@@ -45,7 +45,7 @@ const pratikWagh = {
 ### 🖥️ System Monitoring Script
 
 <a href="https://github.com/Pratikwagh99/system-monitoring-script">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratikwagh99&repo=system-monitoring-script&theme=nord&border_color=F46800&title_color=F46800&icon_color=F46800" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratikwagh99&repo=system-monitoring-script&theme=nord&border_color=F46800&title_color=F46800&icon_color=F46800&cache_seconds=86400" />
 </a>
 
 <br clear="left"/>
@@ -65,7 +65,7 @@ A Bash shell script that monitors key system resources and alerts the user when 
 ### 📱 tesapp
 
 <a href="https://github.com/Pratikwagh99/tesapp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratikwagh99&repo=tesapp&theme=nord&border_color=F46800&title_color=F46800&icon_color=F46800" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratikwagh99&repo=tesapp&theme=nord&border_color=F46800&title_color=F46800&icon_color=F46800&cache_seconds=86400" />
 </a>
 
 <br clear="left"/>
@@ -108,8 +108,8 @@ A Node.js application project.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pratikwagh99&show_icons=true&theme=nord&border_color=F46800&title_color=F46800&icon_color=F46800&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikwagh99&layout=compact&theme=nord&border_color=F46800&title_color=F46800&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pratikwagh99&show_icons=true&theme=nord&border_color=F46800&title_color=F46800&icon_color=F46800&hide_border=false&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikwagh99&layout=compact&theme=nord&border_color=F46800&title_color=F46800&hide_border=false&cache_seconds=86400" />
 
 <img src="https://streak-stats.demolab.com?user=Pratikwagh99&theme=nord&border=F46800&ring=F46800&fire=F46800&currStreakLabel=F46800" />
 
