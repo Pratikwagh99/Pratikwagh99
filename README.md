@@ -13,33 +13,6 @@
 
 </div>
 
-<br>
-
-
-
-```typescript
-const pratikWagh = {
-  title: "Grafana Consultant & Observability Engineer",
-  location: "Mulund, Mumbai, India",
-  stack: {
-    observability: ["Grafana Cloud", "OpenTelemetry", "Prometheus", "Loki", "Tempo", "Grafana Alloy", "InfluxDB"],
-    infra: ["Kubernetes", "Docker", "AWS EC2", "Nginx", "Linux"],
-    languages: ["Python", "SQL", "Bash", "Node.js"],
-    databases: ["MySQL", "InfluxDB"],
-  },
-  launchedProjects: ["system-monitoring-script", "tesapp"],
-  certifications: [
-    "Grafana Observability Sales Professional",
-    "Grafana Observability Solution Architect",
-    "Python Specialist",
-  ],
-  status: "Building end-to-end observability pipelines (metrics, logs, traces) that cut MTTR and enable proactive alerting",
-  openTo: "New opportunities in DevOps & Observability Engineering",
-};
-```
-
-<br>
-
 ## 🚀 Featured Projects
 
 ### 🖥️ System Monitoring Script
