@@ -15,7 +15,7 @@
 
 <br>
 
-## 🧠 Who I Am
+
 
 ```typescript
 const pratikWagh = {
