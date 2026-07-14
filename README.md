@@ -15,17 +15,45 @@
 
 ## 🛠️ Technologies & Tools
 
-- Java
-- Spring Boot
-- Docker
-- Kubernetes
-- AWS
-- Grafana
-- Prometheus
-- OpenTelemetry
-- Git & GitHub
-- Linux
-- MySQL
+### ☁️ Cloud & Infrastructure
+
+* AWS
+* Linux
+* Docker
+* Kubernetes
+
+### 🚀 DevOps & CI/CD
+
+* Git
+* GitHub
+* GitHub Actions
+* Jenkins
+
+### 📊 Observability & Monitoring
+
+* Grafana
+* Prometheus
+* OpenTelemetry
+* Loki
+* Tempo
+
+### ⚙️ Infrastructure as Code & Automation
+
+* Terraform
+* Ansible
+* Bash
+
+### 💻 Programming & Development
+
+* Java
+* Spring Boot
+* Python
+
+### 🗄️ Databases
+
+* MySQL
+* PostgreSQL
+
 
 ---
 
