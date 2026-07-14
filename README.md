@@ -1,12 +1,15 @@
 # Hi there, I'm Pratik Wagh 👋
 
-## About Me
+## 👨‍💻 About Me
 
-- 💻 Software Engineer
-- 📊 Interested in Observability, Monitoring, and Cloud Technologies
-- 🌱 Currently learning Grafana, OpenTelemetry, and AWS
-- 🚀 Passionate about Backend Development and DevOps
-- 📫 Reach me at: **waghpratik777@gmail.com**
+* 💼 DevOps & Site Reliability Engineer (SRE)
+* ☁️ Passionate about Cloud Infrastructure, Automation, and Reliability Engineering
+* 📊 Focused on Observability, Monitoring, Logging, and Distributed Tracing
+* ⚙️ Experienced with CI/CD, Infrastructure as Code, and Containerized Applications
+* 🚀 Continuously learning modern DevOps, Kubernetes, AWS, and Platform Engineering
+* 🎯 Dedicated to building scalable, resilient, and highly available systems
+* 📫 Reach me at: **[waghpratik777@gmail.com](mailto:waghpratik777@gmail.com)**
+
 
 ---
 
