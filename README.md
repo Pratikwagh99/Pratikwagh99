@@ -59,9 +59,9 @@
 
 ## 📈 GitHub Stats
 
-![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratikwagh99&show_icons=true&theme=default)
+https://github-readme-stats.vercel.app/api?username=Pratikwagh99&cache_seconds=1800
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikwagh99&layout=compact)
+https://github-readme-stats.vercel.app/api/top-langs/?username=Pratikwagh99&layout=compact&cache_seconds=1800
 
 ---
 
